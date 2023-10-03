@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day-14</title>
+</head>
+<body>
+    <div style="height: 50px; width: 50px; border: 5px solid black ; padding-top: 50px;">
+        Testing Padding
+    </div>
+    <div style="height: 50px; width:50px; border:5px solid blue; padding-left: 50px;">Testing Padding</div>
+    <div style="height: 50px; width:50px; border:5px solid red; padding-right: 50px;">Tesing Padding right</div>
+    <div style="height: 50px; width:50px; border:5px solid green; padding-bottom: 50px;">Testing Padding bottom</div>
+    
+    
+</body>
+</html>
