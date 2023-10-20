@@ -22,14 +22,10 @@ array.shift()
 console.log(array)
 
 //unshift
-var array = [3,4,5,6,7,8,9] 
-array.unshift(2)
-array.unshift(1)
-array.unshift(0)
-console.log(array)
+array.unshift(23);
+console.log(array);
 
 //map
-var array = [1,2,3,4,5]
-var multibytwo = array.map((i) => i * 2)
-
+var multibytwo = array.map((i) => i*2)
 console.log(multibytwo, 'multibytwo')
+
